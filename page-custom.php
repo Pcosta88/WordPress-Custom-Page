@@ -1,6 +1,9 @@
 <?php
 /**
- * Template Name: Custom Template
+ * Template Name: WordPress Custom Template
+ * Author: Pat Costa
+ * Date: 2015
+ * Author url: patcosta.com 
  */
 
 get_header(); ?>
